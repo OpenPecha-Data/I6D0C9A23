@@ -1,0 +1,16 @@
+id: I6D0C9A23
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:48:40.103395
+last_modified: 2023-02-08 14:48:40.103552
+source_metadata:
+  title: Akṣayamatinirdeśa
+  language: sa
+bases:
+  21AE:
+    base_file: 21AE.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
